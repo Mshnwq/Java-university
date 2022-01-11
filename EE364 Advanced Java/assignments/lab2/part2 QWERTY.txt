@@ -1,0 +1,111 @@
+"C:\Program Files\Java\jdk-15.0.2\bin\java.exe" -Didea.launcher.port=56571 "-Didea.launcher.bin.path=C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.3\bin" -Dfile.encoding=UTF-8 -classpath "D:\Hayan\Desktop\Courses\Programming\Java\364 labs\out\production\364 labs;C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.3\lib\idea_rt.jar" com.intellij.rt.execution.application.AppMainV2 lab2.Testing
+1->Space     |11->h |21->r |31->1 |
+2->Backspace |12->i |22->s |32->2 |
+3->Enter     |13->j |23->t |33->3 |
+4->a         |14->k |24->u |34->4 |
+5->b         |15->l |25->v |35->5 |
+6->c         |16->m |26->w |36->6 |
+7->d         |17->n |27->x |37->7 |
+8->e         |18->o |28->y |38->8 |
+9->f         |19->p |29->z |39->9 |
+10->g        |20->q |30->0 |
+Please enter the code of the button: 4
+Text entered: 
+-----------------------------------
+a
+-----------------------------------
+Please enter the code of the button: 15
+Text entered: 
+-----------------------------------
+al
+-----------------------------------
+Please enter the code of the button: 2
+Text entered: 
+-----------------------------------
+a
+-----------------------------------
+Please enter the code of the button: 15
+Text entered: 
+-----------------------------------
+al
+-----------------------------------
+Please enter the code of the button: 1
+Text entered: 
+-----------------------------------
+al 
+-----------------------------------
+Please enter the code of the button: 16
+Text entered: 
+-----------------------------------
+al m
+-----------------------------------
+Please enter the code of the button: 4
+Text entered: 
+-----------------------------------
+al ma
+-----------------------------------
+Please enter the code of the button: 6
+Text entered: 
+-----------------------------------
+al mac
+-----------------------------------
+Please enter the code of the button: 11
+Text entered: 
+-----------------------------------
+al mach
+-----------------------------------
+Please enter the code of the button: 15
+Text entered: 
+-----------------------------------
+al machl
+-----------------------------------
+Please enter the code of the button: 2
+Text entered: 
+-----------------------------------
+al mach
+-----------------------------------
+Please enter the code of the button: 17
+Text entered: 
+-----------------------------------
+al machn
+-----------------------------------
+Please enter the code of the button: 18
+Text entered: 
+-----------------------------------
+al machno
+-----------------------------------
+Please enter the code of the button: 24
+Text entered: 
+-----------------------------------
+al machnou
+-----------------------------------
+Please enter the code of the button: 14
+Text entered: 
+-----------------------------------
+al machnouk
+-----------------------------------
+Please enter the code of the button: 3
+Text entered: 
+-----------------------------------
+al machnouk
+
+-----------------------------------
+Please enter the code of the button: 33
+Text entered: 
+-----------------------------------
+al machnouk
+3
+-----------------------------------
+Please enter the code of the button: 36
+Text entered: 
+-----------------------------------
+al machnouk
+36
+-----------------------------------
+Please enter the code of the button: 34
+Text entered: 
+-----------------------------------
+al machnouk
+364
+-----------------------------------
+Please enter the code of the button: 

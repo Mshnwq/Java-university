@@ -1,0 +1,55 @@
+"C:\Program Files\Java\jdk-15.0.2\bin\java.exe" -Didea.launcher.port=51853 "-Didea.launcher.bin.path=C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.3\bin" -Dfile.encoding=UTF-8 -classpath "D:\Hayan\Desktop\Courses\Programming\Java\364 labs\out\production\364 labs;C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.3\lib\idea_rt.jar" com.intellij.rt.execution.application.AppMainV2 lab4_1_Exception_OS.OperatingSystem
+1-QWERTY
+2-Calculator
+Please choose one of the two keyboards to run: 
+0
+1-QWERTY
+2-Calculator
+Please choose one of the two keyboards to run: 
+www
+1-QWERTY
+2-Calculator
+Please choose one of the two keyboards to run: 
+1
+1->a  |11->k |21->u |31->4         |
+2->b  |12->l |22->v |32->5         |
+3->c  |13->m |23->w |33->6         |
+4->d  |14->n |24->x |34->7         |
+5->e  |15->o |25->y |35->8         |
+6->f  |16->p |26->z |36->9         |
+7->g  |17->q |27->0 |37->Space     |
+8->h  |18->r |28->1 |38->New Line  |
+9->i  |19->s |29->2 |39->Backspace |
+10->j |20->t |30->3 |
+Please enter the code of the button or -1 to exit: 111
+Button pressed isn't on keyboard
+Text entered: 
+-----------------------------------
+
+-----------------------------------
+Please enter the code of the button or -1 to exit: rrr
+Button pressed isn't on keyboard
+Text entered: 
+-----------------------------------
+
+-----------------------------------
+Please enter the code of the button or -1 to exit: 14
+Text entered: 
+-----------------------------------
+n
+-----------------------------------
+Please enter the code of the button or -1 to exit: 39
+Text entered: 
+-----------------------------------
+
+-----------------------------------
+Please enter the code of the button or -1 to exit: 39
+Text entered: 
+-----------------------------------
+
+-----------------------------------
+Please enter the code of the button or -1 to exit: 39
+Text entered: 
+-----------------------------------
+
+-----------------------------------

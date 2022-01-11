@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.Tooltip?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="633.0" prefWidth="795.0" style="-fx-background-color: #34495e;" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="GUI.Controller1">
+   <children>
+      <TextArea fx:id="temporaryOutput2" opacity="0.0" prefHeight="200.0" prefWidth="200.0" />
+      <ImageView fitHeight="564.0" fitWidth="795.0" layoutX="1.0" layoutY="108.0" opacity="0.3" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../image.jpg" />
+         </image>
+      </ImageView>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#2c3e50" height="160.0" layoutY="1.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" style="-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0);;" width="795.0" />
+      <Label layoutX="42.0" layoutY="25.0" prefHeight="51.0" prefWidth="270.0" text="Computer Factory" textFill="WHITE">
+         <font>
+            <Font size="31.0" />
+         </font>
+      </Label>
+      <TextArea id="phase1Output" fx:id="phase1Output" layoutX="43.0" layoutY="278.0" prefHeight="302.0" prefWidth="619.0">
+         <font>
+            <Font size="18.0" />
+         </font>
+         <tooltip>
+            <Tooltip text="area where the main output should appear" />
+         </tooltip></TextArea>
+      <Label layoutX="58.0" layoutY="188.0" prefHeight="25.0" prefWidth="135.0" text="Number of days" textFill="WHITE">
+         <font>
+            <Font name="System Bold Italic" size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="58.0" layoutY="229.0" prefHeight="25.0" prefWidth="294.0" text="Maximum number of requests per day" textFill="WHITE">
+         <font>
+            <Font name="System Bold Italic" size="16.0" />
+         </font>
+      </Label>
+      <TextField fx:id="phase1Days" layoutX="227.0" layoutY="188.0" prefHeight="25.0" prefWidth="56.0">
+         <tooltip>
+            <Tooltip text="the number of days you want this simulation to run through" />
+         </tooltip></TextField>
+      <TextField fx:id="phase1Max" layoutX="371.0" layoutY="229.0" prefHeight="25.0" prefWidth="56.0">
+         <tooltip>
+            <Tooltip text="the number of requests that shouldn't be exceeded each day" />
+         </tooltip></TextField>
+      <Button fx:id="runPhase1" layoutX="515.0" layoutY="229.0" mnemonicParsing="false" onAction="#runSimulation" prefHeight="25.0" prefWidth="66.0" text="Run">
+         <tooltip>
+            <Tooltip text="Run the simulation and generate reports" />
+         </tooltip></Button>
+      <Button fx:id="resetPhase1" layoutX="587.0" layoutY="229.0" mnemonicParsing="false" onAction="#resetSimulation" prefHeight="25.0" prefWidth="66.0" text="Reset">
+         <tooltip>
+            <Tooltip text="Reset the output " />
+         </tooltip></Button>
+      <Button layoutY="108.0" mnemonicParsing="false" prefHeight="51.0" prefWidth="397.0" style="-fx-background-color: #243342; -fx-background-radius: 0; -fx-border-style: hidden hidden solid hidden; -fx-border-color: #f1c40f; -fx-border-width: 2;" text="Phase 1" textFill="WHITE">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Button>
+      <Button layoutX="398.0" layoutY="108.0" mnemonicParsing="false" onAction="#switchToPhase2" prefHeight="51.0" prefWidth="397.0" style="-fx-background-color: #2c3e50; -fx-background-radius: 0; -fx-border-style: hidden hidden solid hidden; -fx-border-color: red; -fx-border-width: 2; -fx-cursor: hand;" text="Phase 2" textFill="WHITE">
+         <font>
+            <Font size="20.0" />
+         </font>
+         <tooltip>
+            <Tooltip text="move to phase2" />
+         </tooltip>
+      </Button>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#d3d3d3" height="44.0" layoutX="-10.0" layoutY="605.0" stroke="BLACK" strokeLineCap="ROUND" strokeType="INSIDE" strokeWidth="0.0" width="270.0" />
+      <Label fx:id="percentageOfSuccess1" layoutX="15.0" layoutY="603.0" prefHeight="32.0" prefWidth="235.0" textFill="RED">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+      <Button fx:id="tableButton1" layoutX="668.0" layoutY="232.0" mnemonicParsing="false" onAction="#popUpTable" opacity="0.0" prefHeight="44.0" prefWidth="113.0" text="Table View">
+         <graphic>
+            <ImageView fitHeight="44.0" fitWidth="35.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../table.png" />
+               </image>
+            </ImageView>
+         </graphic>
+         <tooltip>
+            <Tooltip text="the main output in a table form" />
+         </tooltip>
+      </Button>
+      <Button fx:id="factoriesButton1" layoutX="689.0" layoutY="281.0" mnemonicParsing="false" onAction="#popUpFactories" opacity="0.0" prefHeight="91.0" prefWidth="91.0">
+         <graphic>
+            <ImageView fitHeight="69.0" fitWidth="87.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../factory.png" />
+               </image>
+            </ImageView>
+         </graphic>
+         <tooltip>
+            <Tooltip text="Factories info summary" />
+         </tooltip>
+      </Button>
+      <Button fx:id="warehousesButton1" layoutX="689.0" layoutY="384.0" mnemonicParsing="false" onAction="#popUpWarehouses" opacity="0.0" prefHeight="91.0" prefWidth="91.0">
+         <graphic>
+            <ImageView fitHeight="83.0" fitWidth="65.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../warehouse.png" />
+               </image>
+            </ImageView>
+         </graphic>
+         <tooltip>
+            <Tooltip text="Warehouses info summary" />
+         </tooltip>
+      </Button>
+      <Button fx:id="requestsButton1" layoutX="689.0" layoutY="485.0" mnemonicParsing="false" onAction="#popUpRequests" opacity="0.0" prefHeight="91.0" prefWidth="91.0">
+         <graphic>
+            <ImageView fitHeight="72.0" fitWidth="78.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../request.png" />
+               </image>
+            </ImageView>
+         </graphic>
+         <tooltip>
+            <Tooltip text="Requests info summary" />
+         </tooltip>
+      </Button>
+      <Hyperlink layoutX="677.0" layoutY="586.0" onAction="#openLink" style="-fx-background-color: white; -fx-background-radius: 15px; -fx-padding: 4px 20px;" text="Javadoc">
+         <graphic>
+            <ImageView fitHeight="28.0" fitWidth="74.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../javadoc.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Hyperlink>
+   </children>
+</AnchorPane>

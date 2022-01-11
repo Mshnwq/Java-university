@@ -1,0 +1,396 @@
+"C:\Program Files\Java\jdk-15.0.2\bin\java.exe" -Didea.launcher.port=50669 "-Didea.launcher.bin.path=C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.3\bin" -Dfile.encoding=UTF-8 -classpath "D:\Hayan\Desktop\Courses\Programming\Java\364 labs\out\production\364 labs;C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.3\lib\idea_rt.jar" com.intellij.rt.execution.application.AppMainV2 lab3_2_polymorph_OS.OperatingSystem
+1-QWERTY
+2-Calculator
+Please choose one of the two keyboards to run: 
+1
+
+1->a  |11->k |21->u |31->4         |
+2->b  |12->l |22->v |32->5         |
+3->c  |13->m |23->w |33->6         |
+4->d  |14->n |24->x |34->7         |
+5->e  |15->o |25->y |35->8         |
+6->f  |16->p |26->z |36->9         |
+7->g  |17->q |27->0 |37->Space     |
+8->h  |18->r |28->1 |38->New Line  |
+9->i  |19->s |29->2 |39->Backspace |
+10->j |20->t |30->3 |
+Please enter the code of the button or -1 to exit: 6
+Text entered: 
+-----------------------------------
+f
+-----------------------------------
+Please enter the code of the button or -1 to exit: 6
+Text entered: 
+-----------------------------------
+ff
+-----------------------------------
+Please enter the code of the button or -1 to exit: 39
+Text entered: 
+-----------------------------------
+f
+-----------------------------------
+Please enter the code of the button or -1 to exit: 37
+Text entered: 
+-----------------------------------
+f 
+-----------------------------------
+Please enter the code of the button or -1 to exit: 36
+Text entered: 
+-----------------------------------
+f 9
+-----------------------------------
+Please enter the code of the button or -1 to exit: 38
+Text entered: 
+-----------------------------------
+f 9
+
+-----------------------------------
+Please enter the code of the button or -1 to exit: 8
+Text entered: 
+-----------------------------------
+f 9
+h
+-----------------------------------
+Please enter the code of the button or -1 to exit: 1
+Text entered: 
+-----------------------------------
+f 9
+ha
+-----------------------------------
+Please enter the code of the button or -1 to exit: 25
+Text entered: 
+-----------------------------------
+f 9
+hay
+-----------------------------------
+Please enter the code of the button or -1 to exit: 1
+Text entered: 
+-----------------------------------
+f 9
+haya
+-----------------------------------
+Please enter the code of the button or -1 to exit: 14
+Text entered: 
+-----------------------------------
+f 9
+hayan
+-----------------------------------
+Please enter the code of the button or -1 to exit: 5
+Text entered: 
+-----------------------------------
+f 9
+hayane
+-----------------------------------
+Please enter the code of the button or -1 to exit: 39
+Text entered: 
+-----------------------------------
+f 9
+hayan
+-----------------------------------
+Please enter the code of the button or -1 to exit: 37
+Text entered: 
+-----------------------------------
+f 9
+hayan 
+-----------------------------------
+Please enter the code of the button or -1 to exit: 5
+Text entered: 
+-----------------------------------
+f 9
+hayan e
+-----------------------------------
+Please enter the code of the button or -1 to exit: 5
+Text entered: 
+-----------------------------------
+f 9
+hayan ee
+-----------------------------------
+Please enter the code of the button or -1 to exit: 30
+Text entered: 
+-----------------------------------
+f 9
+hayan ee3
+-----------------------------------
+Please enter the code of the button or -1 to exit: 33
+Text entered: 
+-----------------------------------
+f 9
+hayan ee36
+-----------------------------------
+Please enter the code of the button or -1 to exit: 31
+Text entered: 
+-----------------------------------
+f 9
+hayan ee364
+-----------------------------------
+Please enter the code of the button or -1 to exit: 38
+Text entered: 
+-----------------------------------
+f 9
+hayan ee364
+
+-----------------------------------
+Please enter the code of the button or -1 to exit: 1
+Text entered: 
+-----------------------------------
+f 9
+hayan ee364
+a
+-----------------------------------
+Please enter the code of the button or -1 to exit: 12
+Text entered: 
+-----------------------------------
+f 9
+hayan ee364
+al
+-----------------------------------
+Please enter the code of the button or -1 to exit: 37
+Text entered: 
+-----------------------------------
+f 9
+hayan ee364
+al 
+-----------------------------------
+Please enter the code of the button or -1 to exit: 13
+Text entered: 
+-----------------------------------
+f 9
+hayan ee364
+al m
+-----------------------------------
+Please enter the code of the button or -1 to exit: 1
+Text entered: 
+-----------------------------------
+f 9
+hayan ee364
+al ma
+-----------------------------------
+Please enter the code of the button or -1 to exit: 3
+Text entered: 
+-----------------------------------
+f 9
+hayan ee364
+al mac
+-----------------------------------
+Please enter the code of the button or -1 to exit: 8
+Text entered: 
+-----------------------------------
+f 9
+hayan ee364
+al mach
+-----------------------------------
+Please enter the code of the button or -1 to exit: 14
+Text entered: 
+-----------------------------------
+f 9
+hayan ee364
+al machn
+-----------------------------------
+Please enter the code of the button or -1 to exit: 15
+Text entered: 
+-----------------------------------
+f 9
+hayan ee364
+al machno
+-----------------------------------
+Please enter the code of the button or -1 to exit: 21
+Text entered: 
+-----------------------------------
+f 9
+hayan ee364
+al machnou
+-----------------------------------
+Please enter the code of the button or -1 to exit: 11
+Text entered: 
+-----------------------------------
+f 9
+hayan ee364
+al machnouk
+-----------------------------------
+Please enter the code of the button or -1 to exit: -1
+1-QWERTY
+2-Calculator
+Please choose one of the two keyboards to run: 
+2
+
+0->0 |10->+         |
+1->1 |11->-         |
+2->2 |12->/         |
+3->3 |13->*         |
+4->4 |14->=         |
+5->5 |15->(         |
+6->6 |16->)         |
+7->7 |17->Space     |
+8->8 |18->New Line  |
+9->9 |19->Backspace |
+Please enter the code of the button or -1 to exit: 3
+Text entered: 
+-----------------------------------
+3
+-----------------------------------
+Please enter the code of the button or -1 to exit: 6
+Text entered: 
+-----------------------------------
+36
+-----------------------------------
+Please enter the code of the button or -1 to exit: 4
+Text entered: 
+-----------------------------------
+364
+-----------------------------------
+Please enter the code of the button or -1 to exit: 13
+Text entered: 
+-----------------------------------
+364*
+-----------------------------------
+Please enter the code of the button or -1 to exit: 3
+Text entered: 
+-----------------------------------
+364*3
+-----------------------------------
+Please enter the code of the button or -1 to exit: 14
+Text entered: 
+-----------------------------------
+364*3 = 1092
+
+-----------------------------------
+Please enter the code of the button or -1 to exit: 8
+Text entered: 
+-----------------------------------
+364*3 = 1092
+8
+-----------------------------------
+Please enter the code of the button or -1 to exit: 12
+Text entered: 
+-----------------------------------
+364*3 = 1092
+8/
+-----------------------------------
+Please enter the code of the button or -1 to exit: 2
+Text entered: 
+-----------------------------------
+364*3 = 1092
+8/2
+-----------------------------------
+Please enter the code of the button or -1 to exit: 14
+Text entered: 
+-----------------------------------
+364*3 = 1092
+8/2 = 4
+
+-----------------------------------
+Please enter the code of the button or -1 to exit: 5
+Text entered: 
+-----------------------------------
+364*3 = 1092
+8/2 = 4
+5
+-----------------------------------
+Please enter the code of the button or -1 to exit: 11
+Text entered: 
+-----------------------------------
+364*3 = 1092
+8/2 = 4
+5-
+-----------------------------------
+Please enter the code of the button or -1 to exit: 3
+Text entered: 
+-----------------------------------
+364*3 = 1092
+8/2 = 4
+5-3
+-----------------------------------
+Please enter the code of the button or -1 to exit: 14
+Text entered: 
+-----------------------------------
+364*3 = 1092
+8/2 = 4
+5-3 = 2
+
+-----------------------------------
+Please enter the code of the button or -1 to exit: 0
+Text entered: 
+-----------------------------------
+364*3 = 1092
+8/2 = 4
+5-3 = 2
+0
+-----------------------------------
+Please enter the code of the button or -1 to exit: 10
+Text entered: 
+-----------------------------------
+364*3 = 1092
+8/2 = 4
+5-3 = 2
+0+
+-----------------------------------
+Please enter the code of the button or -1 to exit: 0
+Text entered: 
+-----------------------------------
+364*3 = 1092
+8/2 = 4
+5-3 = 2
+0+0
+-----------------------------------
+Please enter the code of the button or -1 to exit: 14
+Text entered: 
+-----------------------------------
+364*3 = 1092
+8/2 = 4
+5-3 = 2
+0+0 = 0
+
+-----------------------------------
+Please enter the code of the button or -1 to exit: -1
+1-QWERTY
+2-Calculator
+Please choose one of the two keyboards to run: 
+2
+
+0->0 |10->+         |
+1->1 |11->-         |
+2->2 |12->/         |
+3->3 |13->*         |
+4->4 |14->=         |
+5->5 |15->(         |
+6->6 |16->)         |
+7->7 |17->Space     |
+8->8 |18->New Line  |
+9->9 |19->Backspace |
+Please enter the code of the button or -1 to exit: -1
+1-QWERTY
+2-Calculator
+Please choose one of the two keyboards to run: 
+1
+
+1->a  |11->k |21->u |31->4         |
+2->b  |12->l |22->v |32->5         |
+3->c  |13->m |23->w |33->6         |
+4->d  |14->n |24->x |34->7         |
+5->e  |15->o |25->y |35->8         |
+6->f  |16->p |26->z |36->9         |
+7->g  |17->q |27->0 |37->Space     |
+8->h  |18->r |28->1 |38->New Line  |
+9->i  |19->s |29->2 |39->Backspace |
+10->j |20->t |30->3 |
+Please enter the code of the button or -1 to exit: 12
+Text entered: 
+-----------------------------------
+l
+-----------------------------------
+Please enter the code of the button or -1 to exit: 1
+Text entered: 
+-----------------------------------
+la
+-----------------------------------
+Please enter the code of the button or -1 to exit: 2
+Text entered: 
+-----------------------------------
+lab
+-----------------------------------
+Please enter the code of the button or -1 to exit: 30
+Text entered: 
+-----------------------------------
+lab3
+-----------------------------------
+Please enter the code of the button or -1 to exit: 

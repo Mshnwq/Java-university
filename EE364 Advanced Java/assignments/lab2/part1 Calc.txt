@@ -1,0 +1,147 @@
+"C:\Program Files\Java\jdk-15.0.2\bin\java.exe" -Didea.launcher.port=58863 "-Didea.launcher.bin.path=C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.3\bin" -Dfile.encoding=UTF-8 -classpath "D:\Hayan\Desktop\Courses\Programming\Java\364 labs\out\production\364 labs;C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.3\lib\idea_rt.jar" com.intellij.rt.execution.application.AppMainV2 lab2.Testing
+0->0 |10->+         |
+1->1 |11->-         |
+2->2 |12->/         |
+3->3 |13->*         |
+4->4 |14->=         |
+5->5 |15->(         |
+6->6 |16->)         |
+7->7 |17->Space     |
+8->8 |18->Backspace |
+9->9 |19->Enter     |
+Please enter the code of the button: 0
+Text entered: 
+-----------------------------------
+0
+-----------------------------------
+Please enter the code of the button: 14
+Text entered: 
+-----------------------------------
+0 = 0
+
+-----------------------------------
+Please enter the code of the button: 0
+Text entered: 
+-----------------------------------
+0 = 0
+0
+-----------------------------------
+Please enter the code of the button: 11
+Text entered: 
+-----------------------------------
+0 = 0
+0-
+-----------------------------------
+Please enter the code of the button: 4
+Text entered: 
+-----------------------------------
+0 = 0
+0-4
+-----------------------------------
+Please enter the code of the button: 14
+Text entered: 
+-----------------------------------
+0 = 0
+0-4 = -4
+
+-----------------------------------
+Please enter the code of the button: 2
+Text entered: 
+-----------------------------------
+0 = 0
+0-4 = -4
+2
+-----------------------------------
+Please enter the code of the button: 10
+Text entered: 
+-----------------------------------
+0 = 0
+0-4 = -4
+2+
+-----------------------------------
+Please enter the code of the button: 8
+Text entered: 
+-----------------------------------
+0 = 0
+0-4 = -4
+2+8
+-----------------------------------
+Please enter the code of the button: 14
+Text entered: 
+-----------------------------------
+0 = 0
+0-4 = -4
+2+8 = 10
+
+-----------------------------------
+Please enter the code of the button: 5
+Text entered: 
+-----------------------------------
+0 = 0
+0-4 = -4
+2+8 = 10
+5
+-----------------------------------
+Please enter the code of the button: 13
+Text entered: 
+-----------------------------------
+0 = 0
+0-4 = -4
+2+8 = 10
+5*
+-----------------------------------
+Please enter the code of the button: 8
+Text entered: 
+-----------------------------------
+0 = 0
+0-4 = -4
+2+8 = 10
+5*8
+-----------------------------------
+Please enter the code of the button: 14
+Text entered: 
+-----------------------------------
+0 = 0
+0-4 = -4
+2+8 = 10
+5*8 = 40
+
+-----------------------------------
+Please enter the code of the button: 6
+Text entered: 
+-----------------------------------
+0 = 0
+0-4 = -4
+2+8 = 10
+5*8 = 40
+6
+-----------------------------------
+Please enter the code of the button: 12
+Text entered: 
+-----------------------------------
+0 = 0
+0-4 = -4
+2+8 = 10
+5*8 = 40
+6/
+-----------------------------------
+Please enter the code of the button: 2
+Text entered: 
+-----------------------------------
+0 = 0
+0-4 = -4
+2+8 = 10
+5*8 = 40
+6/2
+-----------------------------------
+Please enter the code of the button: 14
+Text entered: 
+-----------------------------------
+0 = 0
+0-4 = -4
+2+8 = 10
+5*8 = 40
+6/2 = 3
+
+-----------------------------------
+Please enter the code of the button: 

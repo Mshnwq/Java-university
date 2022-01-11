@@ -1,0 +1,191 @@
+"C:\Program Files\Java\jdk-15.0.2\bin\java.exe" -Didea.launcher.port=63908 "-Didea.launcher.bin.path=C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.3\bin" -Dfile.encoding=UTF-8 -classpath "D:\Hayan\Desktop\Courses\Programming\Java\364 labs\out\production\364 labs;C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.3\lib\idea_rt.jar" com.intellij.rt.execution.application.AppMainV2 lab3_1_package_OS.OperatingSystem
+1-QWERTY
+2-Calculator
+Please choose one of the two keyboards to run: 
+1
+1->Space     |11->h |21->r |31->1 |
+2->Backspace |12->i |22->s |32->2 |
+3->Enter     |13->j |23->t |33->3 |
+4->a         |14->k |24->u |34->4 |
+5->b         |15->l |25->v |35->5 |
+6->c         |16->m |26->w |36->6 |
+7->d         |17->n |27->x |37->7 |
+8->e         |18->o |28->y |38->8 |
+9->f         |19->p |29->z |39->9 |
+10->g        |20->q |30->0 |
+Please enter the code of the button or -1 to exit: 11
+Text entered: 
+-----------------------------------
+h
+-----------------------------------
+Please enter the code of the button or -1 to exit: a=4
+Text entered: 
+-----------------------------------
+h
+-----------------------------------
+Please enter the code of the button or -1 to exit: 4
+Text entered: 
+-----------------------------------
+ha
+-----------------------------------
+Please enter the code of the button or -1 to exit: 28
+Text entered: 
+-----------------------------------
+hay
+-----------------------------------
+Please enter the code of the button or -1 to exit: 4
+Text entered: 
+-----------------------------------
+haya
+-----------------------------------
+Please enter the code of the button or -1 to exit: 2
+Text entered: 
+-----------------------------------
+hay
+-----------------------------------
+Please enter the code of the button or -1 to exit: 4
+Text entered: 
+-----------------------------------
+haya
+-----------------------------------
+Please enter the code of the button or -1 to exit: 17
+Text entered: 
+-----------------------------------
+hayan
+-----------------------------------
+Please enter the code of the button or -1 to exit: 3
+Text entered: 
+-----------------------------------
+hayan
+
+-----------------------------------
+Please enter the code of the button or -1 to exit: 8
+Text entered: 
+-----------------------------------
+hayan
+e
+-----------------------------------
+Please enter the code of the button or -1 to exit: 1
+Text entered: 
+-----------------------------------
+hayan
+e 
+-----------------------------------
+Please enter the code of the button or -1 to exit: 8
+Text entered: 
+-----------------------------------
+hayan
+e e
+-----------------------------------
+Please enter the code of the button or -1 to exit: 1
+Text entered: 
+-----------------------------------
+hayan
+e e 
+-----------------------------------
+Please enter the code of the button or -1 to exit: 33
+Text entered: 
+-----------------------------------
+hayan
+e e 3
+-----------------------------------
+Please enter the code of the button or -1 to exit: -1
+1-QWERTY
+2-Calculator
+Please choose one of the two keyboards to run: 
+2
+0->0 |10->+         |
+1->1 |11->-         |
+2->2 |12->/         |
+3->3 |13->*         |
+4->4 |14->=         |
+5->5 |15->(         |
+6->6 |16->)         |
+7->7 |17->Space     |
+8->8 |18->Backspace |
+9->9 |19->Enter     |
+Please enter the code of the button or -1 to exit: 0
+Text entered: 
+-----------------------------------
+0
+-----------------------------------
+Please enter the code of the button or -1 to exit: 10
+Text entered: 
+-----------------------------------
+0+
+-----------------------------------
+Please enter the code of the button or -1 to exit: 0
+Text entered: 
+-----------------------------------
+0+0
+-----------------------------------
+Please enter the code of the button or -1 to exit: 14
+Text entered: 
+-----------------------------------
+0+0 = 0
+
+-----------------------------------
+Please enter the code of the button or -1 to exit: 3
+Text entered: 
+-----------------------------------
+0+0 = 0
+3
+-----------------------------------
+Please enter the code of the button or -1 to exit: 13
+Text entered: 
+-----------------------------------
+0+0 = 0
+3*
+-----------------------------------
+Please enter the code of the button or -1 to exit: 6
+Text entered: 
+-----------------------------------
+0+0 = 0
+3*6
+-----------------------------------
+Please enter the code of the button or -1 to exit: 13
+Text entered: 
+-----------------------------------
+0+0 = 0
+3*6*
+-----------------------------------
+Please enter the code of the button or -1 to exit: 4
+Text entered: 
+-----------------------------------
+0+0 = 0
+3*6*4
+-----------------------------------
+Please enter the code of the button or -1 to exit: 14
+Text entered: 
+-----------------------------------
+0+0 = 0
+3*6*4 = 72
+
+-----------------------------------
+Please enter the code of the button or -1 to exit: 8
+Text entered: 
+-----------------------------------
+0+0 = 0
+3*6*4 = 72
+8
+-----------------------------------
+Please enter the code of the button or -1 to exit: 12
+Text entered: 
+-----------------------------------
+0+0 = 0
+3*6*4 = 72
+8/
+-----------------------------------
+Please enter the code of the button or -1 to exit: 3
+Text entered: 
+-----------------------------------
+0+0 = 0
+3*6*4 = 72
+8/3
+-----------------------------------
+Please enter the code of the button or -1 to exit: 18
+Text entered: 
+-----------------------------------
+0+0 = 0
+3*6*4 = 72
+8/

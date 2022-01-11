@@ -1,0 +1,40 @@
+"C:\Program Files\Java\jdk-15.0.2\bin\java.exe" -Didea.launcher.port=64521 "-Didea.launcher.bin.path=C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.3\bin" -Dfile.encoding=UTF-8 -classpath "D:\Hayan\Desktop\Courses\Programming\Java\364 labs\out\production\364 labs;C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.3\lib\idea_rt.jar" com.intellij.rt.execution.application.AppMainV2 lab4_1_Exception_OS.OperatingSystem
+1-QWERTY
+2-Calculator
+Please choose one of the two keyboards to run: 
+2
+0->0 |10->+         |
+1->1 |11->-         |
+2->2 |12->/         |
+3->3 |13->*         |
+4->4 |14->=         |
+5->5 |15->(         |
+6->6 |16->)         |
+7->7 |17->Space     |
+8->8 |18->New Line  |
+9->9 |19->Backspace |
+Please enter the code of the button or -1 to exit: 14
+*Invalid expression!, enter a valid expression*
+Please enter the code of the button or -1 to exit: 1
+Text entered: 
+-----------------------------------
+1
+-----------------------------------
+Please enter the code of the button or -1 to exit: 10
+Text entered: 
+-----------------------------------
+1+
+-----------------------------------
+Please enter the code of the button or -1 to exit: 14
+*Invalid expression!, enter a valid expression*
+Please enter the code of the button or -1 to exit: 4
+Text entered: 
+-----------------------------------
+1+4
+-----------------------------------
+Please enter the code of the button or -1 to exit: 14
+Text entered: 
+-----------------------------------
+1+4 = 5
+
+-----------------------------------
